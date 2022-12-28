@@ -205,7 +205,7 @@ $.ajax({
         console.log(status);
         
         //$('#addModal').modal("hide");
-        window.location = "client.php";
+        window.location = "clients.php";
         //$('#addModal').modal("hide");
         //$('#addModal').modal("hide");
     }
